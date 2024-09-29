@@ -8,4 +8,4 @@ framework based on similarity index and incremental learning
   * Artigo que contém uma explicação dos dados do dataset, que foi usado para a construção do index de similaridade
 * A literature review on classification of phishing attacks
   * Artigo usado para entender o que é o phishing e sua classificação.
-   
+* Notebook colab: https://colab.research.google.com/drive/1UfnHsbXWmYIZlMQcPuUZIcl1dI1N8Rck#scrollTo=k0Q4yzFqJ3p9   
